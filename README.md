@@ -1,44 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Project README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-      border-radius: 4px;
-    }
-    img {
-      max-width: 100%;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-    }
-    blockquote {
-      border-left: 4px solid #1ed760;
-      padding-left: 10px;
-      color: #555;
-    }
-  </style>
-</head>
-<body>
+
+  
 
   <h1>Spotify Clone & Flex Layout Demo</h1>
 
@@ -86,6 +47,5 @@
   <hr/>
   <p><strong>Made with ❤️ using HTML & CSS</strong></p>
 
-</body>
-</html>
+
 
