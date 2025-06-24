@@ -9,8 +9,9 @@
     <li><code>inlinefelx.htm</code> — A simple inline-flex layout demo</li>
   </ul>
 
-  <h2>📸 Preview  <h2>
- 
+  <h2>📸 Preview <h2>
+ ## Image 1
+ ![Image](https://github.com/user-attachments/assets/c927a683-786e-4147-b94e-d192b3da8dc2)
   
  <h2>🚀 How to Use</h2>
   <ol>
