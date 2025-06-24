@@ -10,7 +10,7 @@
   </ul>
 
   <h2>📸 Preview  <h2>
-  ![Image](https://github.com/user-attachments/assets/fdf95276-162a-4683-b43a-f1c27442f26d)
+  https://github.com/SaiKumarchinna19/spotify_clone/blob/0dcfa7e37aa66fc79bfcf67e71981a26069b50b1/preview/Screenshot%202025-06-24%20123133.png
  
   
  <h2>🚀 How to Use</h2>
