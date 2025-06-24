@@ -12,6 +12,8 @@
   <h2>📸 Preview</h2>
   <p><img src="preview.png.png" alt="Project Preview"></p>
   <blockquote>
+    ![Uploading preview.png.png…]()
+
     ⚠️ Make sure you have a <code>preview.png.png</code> in your repository folder.  
     You can replace it with an updated screenshot if needed.
   </blockquote>
