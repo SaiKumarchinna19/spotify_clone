@@ -9,13 +9,11 @@
     <li><code>inlinefelx.htm</code> — A simple inline-flex layout demo</li>
   </ul>
 
-  <h2>📸 Preview</h2>
-  ![Image](https://github.com/user-attachments/assets/24a424ee-cb34-44c1-a5e2-a886cc19f8d5)
-    ⚠️ Make sure you have a <code>preview.png.png</code> in your repository folder.  
-    You can replace it with an updated screenshot if needed.
-  </blockquote>
-
-  <h2>🚀 How to Use</h2>
+  <h2>📸 Preview  <h2>
+  ![Image](https://github.com/user-attachments/assets/fdf95276-162a-4683-b43a-f1c27442f26d)
+ 
+  
+ <h2>🚀 How to Use</h2>
   <ol>
     <li>Clone the repository:
       <pre><code>git clone https://github.com/your-username/your-repo-name.git</code></pre>
