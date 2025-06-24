@@ -12,6 +12,9 @@
   <h2>📸 Preview <h2>
  ## Image 1
  ![Image](https://github.com/user-attachments/assets/c927a683-786e-4147-b94e-d192b3da8dc2)
+ ## Image 2
+ ![Image](https://github.com/user-attachments/assets/bf3999ff-b3da-489f-9dff-0d8536c39956)
+
   
  <h2>🚀 How to Use</h2>
   <ol>
