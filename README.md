@@ -1,7 +1,4 @@
-
-  
-
-  <h1>Spotify Clone & Flex Layout Demo</h1>
+<h1>Spotify Clone & Flex Layout Demo</h1>
 
   <p>This repository contains a simple Spotify landing page clone and a flex layout demonstration using HTML and CSS.</p>
 
@@ -13,9 +10,10 @@
   </ul>
 
   <h2>📸 Preview</h2>
-  https://github.com/user-attachments/assets/0e11e1b2-3ca9-4ed2-b7bc-0c527ad01995
-    ⚠️ Make sure you have a <code>preview.png</code> in your repository folder.  
-    You can take a screenshot of your page and name it <code>preview.png</code>.
+  <p><img src="preview.png.png" alt="Project Preview"></p>
+  <blockquote>
+    ⚠️ Make sure you have a <code>preview.png.png</code> in your repository folder.  
+    You can replace it with an updated screenshot if needed.
   </blockquote>
 
   <h2>🚀 How to Use</h2>
@@ -45,6 +43,3 @@
 
   <hr/>
   <p><strong>Made with ❤️ using HTML & CSS</strong></p>
-
-
-
