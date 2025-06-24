@@ -13,8 +13,7 @@
   </ul>
 
   <h2>📸 Preview</h2>
-  <p>![Screenshot 2025-06-24 123112](https://github.com/user-attachments/assets/d03961f1-1c6a-4963-83f9-d50031fdcb01)
-></p>
+  ![Image](https://github.com/user-attachments/assets/322f62fe-c8f7-44ac-bf4f-fedd13bf7da9)
   <blockquote>
     ⚠️ Make sure you have a <code>preview.png</code> in your repository folder.  
     You can take a screenshot of your page and name it <code>preview.png</code>.
