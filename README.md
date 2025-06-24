@@ -10,7 +10,7 @@
   </ul>
 
   <h2>📸 Preview</h2>
-  <p><img src="preview.png.png" alt="Project Preview"></p>
+  <p><img src="https://github.com/user-attachments/assets/24a424ee-cb34-44c1-a5e2-a886cc19f8d5)" alt="Project Preview"></p>
   <blockquote>
     ![Uploading preview.png.png…](https://github.com/user-attachments/assets/24a424ee-cb34-44c1-a5e2-a886cc19f8d5))
 
