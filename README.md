@@ -7,7 +7,7 @@
     <li><code>index.html</code> — Main Spotify landing page structure</li>
     <li><code>sotify.css</code> — Custom CSS styling for the Spotify page</li>
     <li><code>inlinefelx.htm</code> — A simple inline-flex layout demo</li>
-    <li><code>Preview</code> — A simple Preview for how the OutPut is shon on the sever</li>
+    <li><code>Preview</code> — A simple Preview for how the OutPut is shown on the sever</li>
   </ul>
 
   <h2>📸 Preview <h2>
