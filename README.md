@@ -10,15 +10,8 @@
     <li><code>Preview</code> — A simple Preview for how the OutPut is shown on the sever</li>
   </ul>
 
-  <h2>📸 Preview <h2>
-    ![image alt](https://github.com/user-attachments/assets/5cb553fa-6bc1-48bb-a612-81f06a1ca781)
-    ![Project Preview](https://github.com/user-attachments/assets/c927a683-786e-4147-b94e-d192b3da8dc2)
- ## Image 1.<br>
- ![Image](https://github.com/user-attachments/assets/c927a683-786e-4147-b94e-d192b3da8dc2)
- ## Image 2. <br>
- ![Image](https://github.com/user-attachments/assets/bf3999ff-b3da-489f-9dff-0d8536c39956)
- # Image 3.<br>
-![Image](https://github.com/user-attachments/assets/46c14e5a-945a-4316-a246-135db60d310c)
+  ## 📸 Preview
+  ![Image](https://github.com/user-attachments/assets/edcf71f7-a28f-4589-8841-61e7511f37dd)
   
  <h2>🚀 How to Use</h2>
   <ol>
