@@ -10,7 +10,7 @@
     <li><code>Preview</code> — A simple Preview for how the OutPut is shown on the sever</li>
   </ul>
 
-  ## 📸 Preview Of The Page(spotify)
+  ## 📸 Preview Of Web Page(spotify)
   ![image](https://github.com/user-attachments/assets/2d2429f3-e2f4-4792-8f4c-6ef9d734d12c)
   ![image](https://github.com/user-attachments/assets/7d028efb-f0dc-40ba-b959-43af5e915e32)
   ![Image](https://github.com/user-attachments/assets/edcf71f7-a28f-4589-8841-61e7511f37dd)
