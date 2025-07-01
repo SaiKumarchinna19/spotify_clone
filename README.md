@@ -41,5 +41,5 @@
   Feel free to modify and use it for practice.</p>
 
   <hr/>
-  <p><strong>Made with ❤️ using HTML & CSS</strong></p>
+  <p><strong>Made with ❤️ using HTML & CSS</strong></p> 
  
