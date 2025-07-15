@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
+
 nav{
     display: flex;
     flex-wrap: nowrap;
@@ -73,9 +74,7 @@ main>div:first-child{
     justify-content: center;
     align-items: flex-end;
     
-   
-    
-    
+      
 }
 
 main>div:last-child{
