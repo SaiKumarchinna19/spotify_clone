@@ -28,7 +28,6 @@
       </ul>
     </li>
   </ol>
-
   <h2>🖌️ Features</h2>
   <ul>
     <li>Responsive landing page layout inspired by Spotify.</li>
