@@ -1,4 +1,4 @@
-   <h1>Spotify Clone & Flex Layout Demo</h1> 
+<h1>Spotify Clone & Flex Layout Demo</h1> 
 
   <p>This repository contains a simple Spotify landing page clone and a flex layout demonstration using HTML and CSS.</p>
 
