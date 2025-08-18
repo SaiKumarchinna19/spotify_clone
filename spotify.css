@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
-/* nav bar start's here */
+/* nav bar start's from here */
 nav{
     display: flex;
     flex-wrap: nowrap;
@@ -445,6 +445,7 @@ footer li:hover{
 }
 
 /* footer part end here */
+
 
 
 
