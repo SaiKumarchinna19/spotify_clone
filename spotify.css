@@ -46,7 +46,7 @@ nav>aside>ol>li:nth-child(4){
     color: white;
     cursor: none    ;
 }
-navbar
+/* navbar */
 
 aside>ol{
     list-style: none;
@@ -448,6 +448,7 @@ footer li:hover{
 }
 
 /* footer part end here */
+
 
 
 
