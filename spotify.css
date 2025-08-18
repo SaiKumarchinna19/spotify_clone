@@ -56,6 +56,8 @@ aside>ol{
     font-weight: 700;
     font-family: SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
 }
+
+
 main{
     /* border: 2px solid; */
     height: 585px;
@@ -445,6 +447,7 @@ footer li:hover{
 }
 
 /* footer part end here */
+
 
 
 
